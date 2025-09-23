@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "legacy_uid": "d1f4af99-a994-db70-4fab-9399c6ae2842",
+  "instructors": {
+    "content": [
+      "bc92b7da-153d-358f-fd28-6f9612a15143"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c6ce46fa-eee1-7ffa-cfa5-bd8c8cda0a56",
+    "website": "24-120-moral-psychology-spring-2009"
+  },
+  "course_title": "Moral Psychology",
+  "course_description": "This course is an examination of philosophical theories of action and motivation in the light of empirical findings from social psychology, sociology, and neuroscience. Topics include belief, desire, and moral motivation; sympathy and empathy; intentions and other committing states; strength of will and weakness of will; free will; addiction and compulsion; guilt, shame and regret; evil; self-knowledge and self-deception; and, virtues and character traits.\n\nThis course is a {{% resource_link \"13609f44-49dc-4798-80c1-65eaa112d0f3\" \"CI-M\" %}} course.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.120",
+  "course_image_thumbnail": {
+    "content": "ebdbf304-20e1-09c4-1207-8f550bf7379b",
+    "website": "24-120-moral-psychology-spring-2009"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "df6a4e27-933d-4642-b97f-f850f85025a4",
+  "site_short_id": "24.120-spring-2009",
+  "site_url_path": "courses/24-120-moral-psychology-spring-2009",
+  "title": "Course Metadata"
+}
