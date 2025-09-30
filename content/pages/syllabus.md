@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, textbooks, requirements, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -22,7 +24,7 @@ Description:
 
 This course is an examination of philosophical theories of action and motivation in the light of empirical findings from social psychology, sociology and neuroscience. Topics include belief, desire, and moral motivation; sympathy and empathy; intentions and other committing states; strength of will and weakness of will; free will; addiction and compulsion; guilt, shame and regret; evil; self-knowledge and self-deception; and, virtues and character traits.
 
-This course is a {{% resource_link "13609f44-49dc-4798-80c1-65eaa112d0f3" "CI-M" %}} course.
+This course is a [CI-M](http://web.mit.edu/commreq/background.html) course.
 
 Prerequisites
 -------------

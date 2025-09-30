@@ -2,6 +2,8 @@
 content_type: page
 description: 'This section provides information on the assignments of the course:
   3 papers and a text presentation.'
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -63,7 +65,7 @@ Paper 2 ({{% resource_link 2d7d4321-14eb-b003-c7ab-36edbf8b3d86 "PDF" %}})
 
 ### Readings
 
-Watson, Gary. "Disordered Appetites: Addiction, Compulsion, and Dependence." Chapter 3 in _Agency and Answerability: Selected Essays_. New York, NY: Oxford University Press, 2004, pp. 59-87. ISBN: 9780199272273. \[{{% resource_link "c9091fcc-26f0-4a96-a08e-ef3b13093e35" "Preview" %}} in Google Books\]
+Watson, Gary. "Disordered Appetites: Addiction, Compulsion, and Dependence." Chapter 3 in _Agency and Answerability: Selected Essays_. New York, NY: Oxford University Press, 2004, pp. 59-87. ISBN: 9780199272273. \[[Preview](http://books.google.com/books?id=tH_jLEw9vOEC&pg=PA59=onepage) in Google Books\]
 
 Loewenstein, George. "A Visceral Account of Addiction." In _Getting Hooked: Rationality and Addiction_. Edited by Jon Elster and Ole-Jorgen Skog. New York, NY: Cambridge University Press, 1999, pp. 235-264. Reprinted by New York, NY: Cambridge University Press, 2007. ISBN: 9780521038799. Page numbers refer to either printing. ISBN is for the 2007 paperback.
 
