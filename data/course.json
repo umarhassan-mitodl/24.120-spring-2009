@@ -27,8 +27,7 @@
     "website": "24-120-moral-psychology-spring-2009"
   },
   "course_title": "Moral Psychology",
-  "hide_download": true,
-  "course_description": "This course is an examination of philosophical theories of action and motivation in the light of empirical findings from social psychology, sociology, and neuroscience. Topics include belief, desire, and moral motivation; sympathy and empathy; intentions and other committing states; strength of will and weakness of will; free will; addiction and compulsion; guilt, shame and regret; evil; self-knowledge and self-deception; and, virtues and character traits.\n\nThis course is a [CI-M](http://web.mit.edu/commreq/background.html) course.\n",
+  "course_description": "This course is an examination of philosophical theories of action and motivation in the light of empirical findings from social psychology, sociology, and neuroscience. Topics include belief, desire, and moral motivation; sympathy and empathy; intentions and other committing states; strength of will and weakness of will; free will; addiction and compulsion; guilt, shame and regret; evil; self-knowledge and self-deception; and, virtues and character traits.\n\nThis course is a {{% resource_link \"f134bd8b-df1f-482d-b9fb-e3761541bd8c\" \"CI-M\" %}} course.\n",
   "department_numbers": [
     "24"
   ],
@@ -38,7 +37,6 @@
     "content": "ebdbf304-20e1-09c4-1207-8f550bf7379b",
     "website": "24-120-moral-psychology-spring-2009"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Presentation Assignments",
