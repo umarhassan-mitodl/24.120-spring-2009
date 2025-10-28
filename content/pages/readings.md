@@ -28,7 +28,7 @@ Butler, Joseph. Sermon XI in *Fifteen Sermons*. 1726. ({{% resource_link "ca9a78
 {{< tdclose >}}{{< tdopen >}}
 Egoism: empirical and quasi-empirical issues
 {{< tdclose >}}{{< tdopen >}}
-Fehr, Ernst, and Urs Fischbacher. "[The Nature of Human Altruism](http://www.nature.com/nature/journal/v425/n6960/abs/nature02043.html)." *Nature* 425 (October 23, 2003): 785-791.
+Fehr, Ernst, and Urs Fischbacher. "{{% resource_link "f01db650-3f27-4328-abbb-53db0ea4237f" "The Nature of Human Altruism" %}}." *Nature* 425 (October 23, 2003): 785-791.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **II. Beliefs, desires, and intentions**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -107,7 +107,7 @@ Holton, Richard. "Intention and Weakness of Will." *Journal of Philosophy* 96 (1
 Strength of will: descriptive issues
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262195409) Ainslie, George. "A Selectionist Model of the Ego: Implications for Self-Control." Chapter 6 in *Disorders of Volition*. Edited by Natalie Sebanz and Wolfgang Prinz. Cambridge, MA: MIT Press, 2006. ISBN: 9780262195409.
+{{% resource_link "c37562c1-0abc-4412-a2dc-dcf2caed4c7b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Ainslie, George. "A Selectionist Model of the Ego: Implications for Self-Control." Chapter 6 in *Disorders of Volition*. Edited by Natalie Sebanz and Wolfgang Prinz. Cambridge, MA: MIT Press, 2006. ISBN: 9780262195409.
 
 Holton, Richard. "How is Strength of Will Possible?" In *Weakness of Will and Practical Irrationality*. Edited by Sarah Stroud and Christine Tappolet. New York, NY: Oxford University Press, 2003. ISBN: 9780199257362.
 
@@ -142,7 +142,7 @@ Holton, Richard. "Rational Resolve." *The Philosophical Review* 113 (2004): 507-
 {{< tdclose >}}{{< tdopen >}}
 Addiction I
 {{< tdclose >}}{{< tdopen >}}
-Yaffe, Gideon. "Recent Work on Addiction and Responsible Agency." *Philosophy and Public Affairs* 30, no. 2 (Spring 2001): 178-221. ([PDF](http://muse.jhu.edu/journals/philosophy_and_public_affairs/v030/30.2yaffe.pdf))
+Yaffe, Gideon. "Recent Work on Addiction and Responsible Agency." *Philosophy and Public Affairs* 30, no. 2 (Spring 2001): 178-221. ({{% resource_link "ce364fd0-ed73-4a27-8185-4ebbc966ceb6" "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
@@ -151,7 +151,7 @@ Addiction II
 
 Berridge, Kent C., and Terry E. Robinson. "The Mind of an Addicted Brain: Neural Sensitization of Wanting Versus Liking." *Current Directions in Psychological Science* 4, no. 3 (June 1995): 71-75.
 
-Watson, Gary. "Disordered Appetites: Addiction, Compulsion, and Dependence." Chapter 3 in *Agency and Answerability: Selected Essays*. New York, NY: Oxford University Press, 2004, pp. 59-87. ISBN: 9780199272273. \[[PDF](https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199272273.001.0001/acprof-9780199272273-chapter-4?print=pdf)\]
+Watson, Gary. "Disordered Appetites: Addiction, Compulsion, and Dependence." Chapter 3 in *Agency and Answerability: Selected Essays*. New York, NY: Oxford University Press, 2004, pp. 59-87. ISBN: 9780199272273. \[{{% resource_link "41b315f8-bd02-4731-95b7-74265e2c3d0c" "PDF" %}}\]
 
 ———. "Excusing Addiction." *Law and Philosophy* 18, no. 6 (1999): 589-619.
 
@@ -209,7 +209,7 @@ Wegner, Daniel M., and T. Wheatley. "Apparent Mental Causation: Sources of the E
 
 Wegner, Daniel M. "Précis of The Illusion of Conscious Will (and Commentaries and Reply)." *Behavioral and Brain Sciences* 27, no. 5 (October 2004): 649-692.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262512572) Bayne, Timothy. "Phenomenology and the Feeling of Doing: Wegner on the Conscious Will." In *Does Consciousness Cause Behavior?* Edited by Susan Pockett, William P. Banks, and Shaun Gallagher. Cambridge, MA: MIT Press, 2009, pp. 169-186. ISBN: 9780262512572. ([PDF](https://pdfs.semanticscholar.org/7350/4f5dcc63d1617fd8e4a6d439be1ba09a6c8d.pdf))
+{{% resource_link "ea703007-89ac-4bd5-968c-e9d2277348d3" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bayne, Timothy. "Phenomenology and the Feeling of Doing: Wegner on the Conscious Will." In *Does Consciousness Cause Behavior?* Edited by Susan Pockett, William P. Banks, and Shaun Gallagher. Cambridge, MA: MIT Press, 2009, pp. 169-186. ISBN: 9780262512572. ({{% resource_link "7aa406d7-2d39-4794-83ce-c9a430ff571c" "PDF" %}})
 
 Mele, Alfred R. "Free Will: Action Theory Meets Neuroscience." In *Intentionality, Deliberation and Autonomy*. Edited by Christoph Lumer and Sandro Nannini. Routledge, 2016. ISBN: ‎9781138249288. 
 
@@ -225,9 +225,9 @@ Frankfurt, Harry. "Identification and Wholeheartedness." In *The Importance of W
 
 ———. "The Faintest Passion." Chapter 8 in *Necessity, Volition and Love*. New York, NY: Cambridge University Press, 1999, pp. 95-107. ISBN: 9780521633956.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262025133) Scanlon, T. M. "Reasons and Passions." Chapter 6 in *The Contours of Agency: Essays on Themes from Harry Frankfurt*. Edited by Sarah Buss and Lee Overton. Cambridge, MA: MIT Press, 2002, pp. 165-188. ISBN: 9780262025133.
+{{% resource_link "2a7349d0-c58b-4cfe-845e-37130c715d75" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Scanlon, T. M. "Reasons and Passions." Chapter 6 in *The Contours of Agency: Essays on Themes from Harry Frankfurt*. Edited by Sarah Buss and Lee Overton. Cambridge, MA: MIT Press, 2002, pp. 165-188. ISBN: 9780262025133.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262025133) Moran, Richard. "Frankfurt on Identification: Ambiguities of Activity in Mental Life." Chapter 7 in *The Contours of Agency: Essays on Themes from Harry Frankfurt*. Edited by Sarah Buss and Lee Overton. Cambridge, MA: MIT Press, 2002, pp. 189-226. ISBN: 9780262025133.
+{{% resource_link "2a7349d0-c58b-4cfe-845e-37130c715d75" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Moran, Richard. "Frankfurt on Identification: Ambiguities of Activity in Mental Life." Chapter 7 in *The Contours of Agency: Essays on Themes from Harry Frankfurt*. Edited by Sarah Buss and Lee Overton. Cambridge, MA: MIT Press, 2002, pp. 189-226. ISBN: 9780262025133.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
@@ -235,7 +235,7 @@ Frankfurt, Harry. "Identification and Wholeheartedness." In *The Importance of W
 Self-determination theory
 {{< tdclose >}}{{< tdopen >}}
 
-Deci, E. L., and R. M. Ryan. "[The Support of Autonomy and the Control of Behavior](http://www.ncbi.nlm.nih.gov/pubmed/3320334)." *Journal of Personality and Social Psychology* 53 (1987): 1024-1037.
+Deci, E. L., and R. M. Ryan. "{{% resource_link "fe91aff1-3680-46fb-9d73-5179376758b9" "The Support of Autonomy and the Control of Behavior" %}}." *Journal of Personality and Social Psychology* 53 (1987): 1024-1037.
 
 Ryan, R. M., and E. L. Deci. "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being." *American Psychologist* 55 (2000): 68-78.
 
@@ -251,7 +251,7 @@ Deci, E. L., and R. M. Ryan. "The 'What' and 'Why' of Goal Pursuits: Human Needs
 Self-deception
 {{< tdclose >}}{{< tdopen >}}
 
-Mele, Alfred R. "[Real Self-Deception](http://dx.doi.org/10.1017/S0140525X97240033)." *Behavioral and Brain Sciences* 20, no. 1 (1997): 91-136. (Note: This is a pre-print, and does not include the peer commentary that appeared with the printed version.)
+Mele, Alfred R. "{{% resource_link "b82bde03-3e76-45da-a52a-ce21cef7ae17" "Real Self-Deception" %}}." *Behavioral and Brain Sciences* 20, no. 1 (1997): 91-136. (Note: This is a pre-print, and does not include the peer commentary that appeared with the printed version.)
 
 Holton, Richard. "What is the Role of the Self in Self-Deception?" *Proceedings of the Aristotelian Society New Series* 101 (2001): 53-69.
 
@@ -262,7 +262,7 @@ Holton, Richard. "What is the Role of the Self in Self-Deception?" *Proceedings 
 {{< tdclose >}}{{< tdopen >}}
 The metaethical implications of empirical work
 {{< tdclose >}}{{< tdopen >}}
-Do the Harvard [Moral Sense Test](http://www.moralsensetest.com/)
+Do the Harvard {{% resource_link "038d6e7b-e38b-497d-b613-b54b292d1b27" "Moral Sense Test" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
@@ -271,7 +271,7 @@ Moral judgment and motivation
 
 Nichols, Shaun. "Norms with Feeling." *Cognition* 84 (2002): 221-236.
 
-Haidt, Jonathan. "The Emotional Dog and its Rational Tail: A Social Intuitionist Approach to Moral Judgment." *Psychological Review* 108, no. 4 (2001): 814-834. ([PDF](http://en.wikipedia.org/wiki/Psychological_Review))
+Haidt, Jonathan. "The Emotional Dog and its Rational Tail: A Social Intuitionist Approach to Moral Judgment." *Psychological Review* 108, no. 4 (2001): 814-834. ({{% resource_link "eef17754-c46e-4ee4-be63-57dd2cfc124a" "PDF" %}})
 
 Greene, Joshua D., Leigh E. Nystrom, Andrew D. Engell, John M. Darley, and Jonathan D. Cohen. "The Neural Bases of Cognitive Conflict and Control in Moral Judgment." *Neuron* 44 (2004): 389-400.
 
@@ -285,7 +285,7 @@ Autism and sociopathy
 
 Kennett, Jeanette. "Autism and Empathy." *Philosophical Quarterly* 52 (July 2002): 340-357.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262195645) McGeer, Victoria. "Varieties of Moral Agency: Lessons from Autism." In *Moral Psychology: The Neuroscience of Morality: Emotion, Brain Disorders, and Development*. Vol. 3. Edited by Walter Sinnott-Armstrong. Cambridge, MA: MIT Press, 2007. ISBN: 9780262195645.
+{{% resource_link "0e18360a-02cf-4ae9-9c43-506f70ebb9b7" "![Buy at MIT Press](/images/mp_logo.gif)" %}} McGeer, Victoria. "Varieties of Moral Agency: Lessons from Autism." In *Moral Psychology: The Neuroscience of Morality: Emotion, Brain Disorders, and Development*. Vol. 3. Edited by Walter Sinnott-Armstrong. Cambridge, MA: MIT Press, 2007. ISBN: 9780262195645.
 
 Roskies, Adina. "Are Ethical Judgments Intrinsically Motivational? Lessons from Acquired Sociopathy." *Philosophical Psychology* 16, no. 1 (March 2003): 51-66.
 
@@ -295,11 +295,11 @@ Roskies, Adina. "Are Ethical Judgments Intrinsically Motivational? Lessons from 
 Moral luck and the Knobe effect
 {{< tdclose >}}{{< tdopen >}}
 
-Knobe, Joshua. "[The Concept of Intentional Action: A Case Study in the Uses of Folk Psychology](https://link.springer.com/article/10.1007/s11098-004-4510-0)." *Philosophical Studies* 130, no. 2 (August 2006): 203-231.
+Knobe, Joshua. "{{% resource_link "9faf83de-28f7-4af0-8dc5-46b72dfdb230" "The Concept of Intentional Action: A Case Study in the Uses of Folk Psychology" %}}." *Philosophical Studies* 130, no. 2 (August 2006): 203-231.
 
-Pettit, Dean, and Joshua Knobe. "The Pervasive Impact of Moral Judgment." *Mind and Language* forthcoming. ([PDF](http://pantheon.yale.edu/~jk762/pervasiveness.pdf))
+Pettit, Dean, and Joshua Knobe. "The Pervasive Impact of Moral Judgment." *Mind and Language* forthcoming. ({{% resource_link "b639663f-18f3-4644-b134-38c2709f13c8" "PDF" %}})
 
-Nelkin, Dana K. "[Moral Luck](http://plato.stanford.edu/archives/fall2009/entries/moral-luck/)." *The Stanford Encyclopedia of Philosophy (Fall 2009 Edition)*. Edited by Edward N. Zalta. [http://plato.stanford.edu/archives/fall2009/entries/moral-luck/](http://plato.stanford.edu/archives/fall2009/entries/moral-luck/).
+Nelkin, Dana K. "{{% resource_link "bc340c23-55bf-471c-bd63-c6387948d74e" "Moral Luck" %}}." *The Stanford Encyclopedia of Philosophy (Fall 2009 Edition)*. Edited by Edward N. Zalta. {{% resource_link "bc340c23-55bf-471c-bd63-c6387948d74e" "http://plato.stanford.edu/archives/fall2009/entries/moral-luck/" %}}.
 
 Cushman, Fiery. "Crime and Punishment: Distinguishing the Roles of Causal and Intentional Analyses in Moral Judgment." *Cognition* 108, no. 2 (August 2008): 353-380.
 
